@@ -1,0 +1,83 @@
+.container .header,
+.navigation {
+  text-align: center;
+  margin-top: 20px;
+  color: #000;
+  text-align: center;
+  font-family: Segoe UI;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 47px;
+}
+.navigation button {
+  border-radius: 10px;
+  background: #064ebc;
+  box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+  color: aliceblue;
+  padding: 20px;
+  flex-shrink: 0;
+  border: none;
+  width: 119px;
+}
+.navigation {
+  padding-left: 1120px;
+  display: flex;
+  gap: 5px;
+}
+input {
+  padding: 20px;
+  flex-shrink: 0;
+  width: 300px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+
+  border: none;
+  margin-left: 15px;
+}
+.formcard .cardphu,
+.cardmio,
+.cardvaren {
+  background: #fff;
+}
+.formcard {
+  display: flex;
+  gap: 88px;
+  margin: 52px;
+  justify-content: center;
+}
+.t {
+  display: flex;
+  gap: 15px;
+}
+.name {
+  color: #000;
+  font-family: Segoe UI;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 141.176% */
+}
+.y {
+  display: flex;
+  gap: 95px;
+}
+.icon {
+  display: flex;
+  gap: 17px;
+}
+.description {
+  width: 310px;
+  padding-top: 14px;
+}
+.cat,
+.elephant,
+.baby {
+  margin-top: 15px;
+}
+.icon-search {
+  position: absolute;
+  top: 94px;
+  left: 1580px;
+}
