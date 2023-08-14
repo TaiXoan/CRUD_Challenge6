@@ -57,7 +57,7 @@ input {
   font-size: 17px;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px; /* 141.176% */
+  line-height: 24px;
 }
 .y {
   display: flex;
